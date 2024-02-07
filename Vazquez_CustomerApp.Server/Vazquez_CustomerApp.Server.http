@@ -1,0 +1,6 @@
+@Vazquez_CustomerApp.Server_HostAddress = http://localhost:5018
+
+GET {{Vazquez_CustomerApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
